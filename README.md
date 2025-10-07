@@ -1,14 +1,13 @@
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>当たり！</title>
+<title>当たりページ</title>
 <style>
   body {
     background-color: #fff7d1;
     text-align: center;
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     padding-top: 100px;
   }
   h1 {
@@ -24,3 +23,5 @@
   <h1>🎉 おめでとうございます！ 🎉</h1>
   <p>あなたは <strong>当たり</strong> です！</p>
   <p>この画面をスタッフにお見せください。</p>
+</body>
+</html>
